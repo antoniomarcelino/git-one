@@ -5,3 +5,7 @@ body {
     padding: 30px;
     border: 1px solid black;
 }
+
+a:hover{
+    color: red;
+}
