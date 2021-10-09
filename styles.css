@@ -6,7 +6,7 @@ body {
     color: white;
     display: flex;
     justify-content: flex-end;
-    align-items: flex-start;
+    align-items: flex-end;
 }
 
 a:hover{
