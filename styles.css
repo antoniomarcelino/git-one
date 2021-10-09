@@ -4,7 +4,7 @@ body {
     margin: 20px;
     padding: 30px;
     color: pink;
-    display: flex;
+    display: block;
 }
 
 a:hover{
