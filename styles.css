@@ -3,7 +3,7 @@ body {
     font-size: 2em;
     margin: 20px;
     padding: 30px;
-    color: pink;
+    color: green;
     display: flex;
     justify-content: flex-end;
 }
