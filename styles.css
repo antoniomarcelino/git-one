@@ -6,3 +6,7 @@ body {
     color: pink;
     border: 1px solid black;
 }
+
+a:hover{
+    color: red;
+}
