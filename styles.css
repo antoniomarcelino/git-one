@@ -10,3 +10,7 @@ body {
 a:hover{
     color: red;
 }
+
+a:active{
+    color: green;
+}
